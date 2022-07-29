@@ -1,0 +1,251 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-8QO2TLKN",
+    "children" : [ {
+      "name" : "11616-MainThread",
+      "children" : [ {
+        "name" : "test_12_go_yinshimei_experience_center_page",
+        "uid" : "e3f10b791bd34936",
+        "parentUid" : "0e3956460be81742ce0d76505c5612b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745917850,
+          "stop" : 1656745943839,
+          "duration" : 25989
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_06_go_treatment_process_page",
+        "uid" : "4c4066acf7804e40",
+        "parentUid" : "0e3956460be81742ce0d76505c5612b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745890242,
+          "stop" : 1656745894484,
+          "duration" : 4242
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_10_go_open_smile_test_page",
+        "uid" : "78a0b954492b7e10",
+        "parentUid" : "0e3956460be81742ce0d76505c5612b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745906141,
+          "stop" : 1656745910212,
+          "duration" : 4071
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_to_About_hidden_beauty_page",
+        "uid" : "1fdce4ee377146d6",
+        "parentUid" : "0e3956460be81742ce0d76505c5612b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745850406,
+          "stop" : 1656745854084,
+          "duration" : 3678
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_04_go_teenagers_page",
+        "uid" : "c1dca1f2742d0197",
+        "parentUid" : "0e3956460be81742ce0d76505c5612b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745862968,
+          "stop" : 1656745867289,
+          "duration" : 4321
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_05_go_teenagers_page",
+        "uid" : "4cca280112c60546",
+        "parentUid" : "0e3956460be81742ce0d76505c5612b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745877008,
+          "stop" : 1656745881572,
+          "duration" : 4564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_17_go_advanced_optionsorganization_list_page",
+        "uid" : "fa2fd63c4fd9d2bb",
+        "parentUid" : "0e3956460be81742ce0d76505c5612b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745961428,
+          "stop" : 1656745965047,
+          "duration" : 3619
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_14_go_right_looking_for_yinshimei_treatment_institution_page",
+        "uid" : "fc24e37af9fdc9d4",
+        "parentUid" : "0e3956460be81742ce0d76505c5612b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745952341,
+          "stop" : 1656745953905,
+          "duration" : 1564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0e3956460be81742ce0d76505c5612b3"
+    }, {
+      "name" : "18792-MainThread",
+      "children" : [ {
+        "name" : "test_11_go_contact_us_page",
+        "uid" : "91e3e4e88cd4b3fe",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745914791,
+          "stop" : 1656745917711,
+          "duration" : 2920
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_03_go_teenagers_page",
+        "uid" : "d27bc5206dc51124",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745862968,
+          "stop" : 1656745867575,
+          "duration" : 4607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_18_search_error_prompt",
+        "uid" : "254824cf482d4c4a",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745965461,
+          "stop" : 1656745965798,
+          "duration" : 337
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_15_go_right_become_yinshimei_doctor_page",
+        "uid" : "45c96bc4d1ad9227",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745939485,
+          "stop" : 1656745947283,
+          "duration" : 7798
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_13_go_right_open_smile_test_page",
+        "uid" : "a9aaf54a56cc3e93",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745926205,
+          "stop" : 1656745930543,
+          "duration" : 4338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_08_go_treatment_cost_page",
+        "uid" : "5034d0121b383292",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745888240,
+          "stop" : 1656745892896,
+          "duration" : 4656
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_16_go_organization_list_page",
+        "uid" : "32f7d33db2596d93",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745955087,
+          "stop" : 1656745958042,
+          "duration" : 2955
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_09_go_looking_for_yinshimei_treatment_institution_page",
+        "uid" : "3fc6e2269ec8fdc7",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745902269,
+          "stop" : 1656745904215,
+          "duration" : 1946
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_07_go_treatment_cost_page",
+        "uid" : "99aabce5d22d82d1",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745876948,
+          "stop" : 1656745879297,
+          "duration" : 2349
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_to_index_page",
+        "uid" : "66f28039555bcb0c",
+        "parentUid" : "bcee08002c81b17ad36b268e9f2d0709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656745849791,
+          "stop" : 1656745854721,
+          "duration" : 4930
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bcee08002c81b17ad36b268e9f2d0709"
+    } ],
+    "uid" : "5e93f71110b333b5a15dbbb8f1ac9eee"
+  } ]
+}

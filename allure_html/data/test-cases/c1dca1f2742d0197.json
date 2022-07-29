@@ -1,0 +1,105 @@
+{
+  "uid" : "c1dca1f2742d0197",
+  "name" : "test_04_go_teenagers_page",
+  "fullName" : "TestCases.test_find_a_doctor.TestFindADoctor#test_04_go_teenagers_page",
+  "historyId" : "24b79a9d330d891693f1fb68adfe7fa2",
+  "time" : {
+    "start" : 1656745862968,
+    "stop" : 1656745867289,
+    "duration" : 4321
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1656745842011,
+      "stop" : 1656745842180,
+      "duration" : 169
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1656745856332,
+      "stop" : 1656745856332,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "30fe803a6f58e842",
+      "name" : "stdout",
+      "source" : "30fe803a6f58e842.txt",
+      "type" : "text/plain",
+      "size" : 26
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "all"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_find_a_doctor"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestFindADoctor"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-8QO2TLKN"
+  }, {
+    "name" : "thread",
+    "value" : "11616-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_find_a_doctor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "all" ]
+  },
+  "source" : "c1dca1f2742d0197.json",
+  "parameterValues" : [ ]
+}
