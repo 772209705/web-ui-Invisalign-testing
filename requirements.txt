@@ -1,0 +1,8 @@
+allure-pytest==2.8.18
+allure-python-commons==2.8.18
+pytest==6.2.5
+selenium==3.141.0
+pytest-xdist
+
+
+
